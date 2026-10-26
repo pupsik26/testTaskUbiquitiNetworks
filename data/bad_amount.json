@@ -1,0 +1,9 @@
+[
+  {"id": 1, "customer": "A", "amount": -100, "status": "paid"},
+  {"id": 2, "customer": "B", "amount": "abc", "status": "paid"},
+  {"id": 3, "customer": "C", "amount": true, "status": "paid"},
+  {"id": 4, "customer": "D", "amount": null, "status": "paid"},
+  {"id": 5, "customer": "E", "amount": "1500.50", "status": "paid"},
+  {"id": 6, "customer": "F", "amount": " 2000 ", "status": "paid"},
+  {"id": 7, "customer": "G", "amount": 10.005, "status": "pending"}
+]
